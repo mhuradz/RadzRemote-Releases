@@ -109,7 +109,7 @@ Pre-compiled, digitally signed release binaries are publicly available:
 
 | Package | Format | Architecture | Download |
 | :--- | :---: | :---: | :--- |
-| **RadzRemote Portable** | `.exe` (Single-File) | Windows x64 | **[Download RadzRemote.exe](https://github.com/mhuradz/RadzRemote-Releases/releases/download/v1.0.0/RadzRemote.exe)** |
+| **RadzRemote Portable** | `.exe` (Single-File) | Windows x64 | **[Download RadzRemote.exe](https://github.com/mhuradz/RadzRemote-Releases/releases/download/v1.0.0/RadzRemote.Client.exe)** |
 | **RadzRemote Archive** | `.zip` (Compressed) | Windows x64 | **[Download RadzRemote.zip](https://github.com/mhuradz/RadzRemote-Releases/releases/download/v1.0.0/RadzRemote-v1.0.0-win-x64.zip)** |
 
 *Compatible with Windows 10, Windows 11, and Windows Server 2016+ (64-bit).*
